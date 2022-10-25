@@ -40,18 +40,20 @@ a {
 }
 
 .photo {
-    width: 100%;
+    width: auto;
 }
 
 .words {
     text-align: left;
     color: #e0ded1;
+    width: auto;
     margin-left: 1%;
     margin-bottom: 10%;
 }
 
 .social, .social.on {
     color: black;
+    width: 100%;
     background-color: linear-gradient(-60deg, #6c3 50%, #09f 50%);
     display: inline-block;
     text-decoration: none;
