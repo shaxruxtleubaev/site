@@ -4,8 +4,7 @@ body {
     letter-spacing: 0,25em;
 }
 #page {
-    max-width: 1200px;
-    min-width: 720px;
+    width: auto;
     margin: 10px auto 10px auto;
     padding: 20px;
 }
@@ -40,11 +39,11 @@ a {
 }
 
 .photo {
-    width: auto;
+    width:fit-content;
 }
 
 .words {
-    text-align: left;
+    text-align: center;
     color: #e0ded1;
     width: auto;
     margin-left: 1%;
