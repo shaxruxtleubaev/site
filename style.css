@@ -4,8 +4,8 @@ body {
     letter-spacing: 0,25em;
 }
 #page {
-    max-width: 1200px;
-    min-width: 720px;
+    max-width: auto;
+    min-width: auto;
     margin: 10px auto 10px auto;
     padding: 20px;
 }
